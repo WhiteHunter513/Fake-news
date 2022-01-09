@@ -17,6 +17,10 @@ Planning: -
 ## Project link
 
 https://youtu.be/CUkggjNNoWs
+
+All parts available in playlist
+channel name  - codejay
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install library.
