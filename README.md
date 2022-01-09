@@ -10,7 +10,7 @@ The intended application of the project is for use in applying visibility weight
 
 Planning: -
 1. Data Collection
-2. Model Building (TensorFlow, CNN)
+2. Model Building
 3. Backend work
 4. Deployment 
 
